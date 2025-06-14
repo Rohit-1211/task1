@@ -1,0 +1,16 @@
+{
+    "telemetry": [
+        {
+            "timestamp": "2024-03-20T10:30:00Z",
+            "temperature": 25.5,
+            "humidity": 60,
+            "pressure": 1013.2
+        },
+        {
+            "timestamp": "2024-03-20T10:31:00Z",
+            "temperature": 25.7,
+            "humidity": 61,
+            "pressure": 1013.1
+        }
+    ]
+} 

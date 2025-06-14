@@ -1,0 +1,16 @@
+{
+    "unified_telemetry": [
+        {
+            "timestamp": 1710930600000,
+            "temperature": 25.5,
+            "humidity": 60,
+            "pressure": 1013.2
+        },
+        {
+            "timestamp": 1710930660000,
+            "temperature": 25.7,
+            "humidity": 61,
+            "pressure": 1013.1
+        }
+    ]
+} 
