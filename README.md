@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Data Format Conversion Project
 
 This project demonstrates the conversion of two different telemetry data formats into a unified format.
@@ -32,3 +33,6 @@ The solution includes:
 - Conversion of ISO timestamps to milliseconds
 - Standardization of field names
 - Validation against expected output format 
+=======
+# task1
+>>>>>>> ad43cfe411a692a469ad9a310d37bb8279b10ac2
